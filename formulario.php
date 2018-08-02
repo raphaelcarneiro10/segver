@@ -15,7 +15,7 @@
 					<form method="post" action="consulta.php">
 						<div class="form-group">
 							<label>Nome:</label>
-							<input type="text" name="nome" class="form-control">
+							<input type="text" name="login" class="form-control">
 						</div>
 						<div class="form-group">
 							<label>Senha:</label>
